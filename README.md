@@ -22,11 +22,12 @@ pip install futures
 pip install urllib3
 pip install rich
 pip install bs4
-termux-setup-storage
-`
- 
-```python
+termux-setup-storage```
+ ```
+* REMOVE FILE
+```
 rm -rf INBOX-LOADER
+
 ```
 * CLONE THE REPOSITORY FROM GITHUB
 ```
