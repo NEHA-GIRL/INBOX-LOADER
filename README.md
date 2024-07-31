@@ -4,7 +4,7 @@
 
 
 
-INSTALL TOOL ON TERMUX 
+* INSTALL TOOL ON TERMUX 
 ```bash
 
 
@@ -24,16 +24,16 @@ termux-setup-storage
 ```python
 rm -rf INBOX-LOADER
 ```
-* CLONE THE REPOSITORY FROM GITHUB:
+* CLONE THE REPOSITORY FROM GITHUB
 ```
 git clone --depth=1 https://github.com/NEHA-GIRL/INBOX-LOADER.git
 ```
-* NAVIGATE TO THE INBOX-LOADER DIRECTORY:
+* NAVIGATE TO THE INBOX-LOADER DIRECTORY
 
 ```
 cd INBOX-LOADER 
 ```
-* RUN THE SCRIPT:
+* RUN THE SCRIPT
 
 ```
 python Inbox.py
