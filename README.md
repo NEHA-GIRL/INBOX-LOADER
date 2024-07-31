@@ -4,10 +4,9 @@
 
 
 
-
+INSTALL TOOL ON TERMUX 
 ```bash
 
-<h4 align="left">INSTALL TOOL ON TERMUX > </h4>
 
 pkg update 
 pkg upgrade
